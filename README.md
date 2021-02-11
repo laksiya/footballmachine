@@ -1,2 +1,2 @@
-# footballmachine
-Automatisation of a Pro Soccer Trainer
+# Automatisation of a Pro Soccer Trainer footballmachine
+This project is an extension of Alvestrand(2014) and Iversen et al.(2015) at NTNU. The objective of these reports have been to automate the use of a manual ball machine used in football(soccer) practice by finding the machine's optimal initial conditions to land on a desired point with and without side-spin. This includes automatically setting the optimal speed and pitch angle of the machine. The goal of this project is to improve the system architecture of the current machine and add extra functionality to machine with focus on increased automatisation as well as introduction of new degrees of freedom and spin types for the ball shot.
